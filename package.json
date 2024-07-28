@@ -2,6 +2,7 @@
   "name": "llamaverse",
   "displayName": "LlamaVerse",
   "description": "Enter the LlamaVerse: Chat with Ollama models directly in VS Code",
+  "publisher": "appyzdl5",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/appyzdl/LlamaVerse.git"
