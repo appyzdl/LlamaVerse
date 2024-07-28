@@ -1,2 +1,3 @@
-# LlamaVerse
-A VSCode extension that uses Ollama to run state of the art LLMS in your vscode 😉
+# LlamaVerse: VSCode Edition
+
+Enter the LlamaVerse and chat with Ollama models directly in your VS Code editor!
