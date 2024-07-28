@@ -1,0 +1,48 @@
+{
+  "name": "llamaverse",
+  "displayName": "LlamaVerse",
+  "description": "Enter the LlamaVerse: Chat with Ollama models directly in VS Code",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appyzdl/LlamaVerse.git"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:llamaverse.start"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "llamaverse.start",
+        "title": "Start LlamaVerse Chat"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "eslint src/**/*.js --fix",
+    "pretest": "npm run lint"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.1.3",
+    "@types/mocha": "^8.2.2",
+    "@types/node": "^14.18.63",
+    "@types/vscode": "^1.91.0",
+    "eslint": "^9.8.0",
+    "glob": "^7.1.7",
+    "globals": "^15.8.0",
+    "mocha": "^8.4.0",
+    "typescript": "^4.3.2",
+    "vscode-test": "^1.5.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
