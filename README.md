@@ -49,4 +49,14 @@ Initial release of LlamaVerse: VSCode Edition
 * [Ollama Official Website](https://ollama.ai/)
 * [VS Code Extension API](https://code.visualstudio.com/api)
 
+## Stay Connected
+
+I regularly update my [Twitter](https://twitter.com/appyzdl5) and [Substack](https://appyzdl5.substack.com/) with insights and discussions on computer science, machine learning, and deep learning. Follow me for the latest news, updates, and articles on these exciting fields!
+
+- **Twitter:** [@appyzdl5](https://twitter.com/appyzdl5)
+- **Substack:** [Subscribe here](https://appyzdl5.substack.com/)
+
+Stay tuned for more content and updates!
+
+
 **Enjoy your journey through the LlamaVerse!**
