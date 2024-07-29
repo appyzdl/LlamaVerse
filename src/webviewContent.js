@@ -24,6 +24,11 @@ function getWebviewContent(models) {
                 --copy-icon-color: #007bff;
                 --copy-icon-hover-color: #0056b3;
             }
+            html, body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
             body {
                 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
                 margin: 0;
@@ -34,8 +39,8 @@ function getWebviewContent(models) {
                 display: flex;
                 flex-direction: column;
                 align-items: center;
-                overflow: hidden;
                 box-sizing: border-box;
+                overflow-y: auto;
             }
             h1 {
                 color: var(--text-color);
