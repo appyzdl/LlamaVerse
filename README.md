@@ -8,10 +8,10 @@
   <b><i>Enter the LlamaVerse and chat with Ollama models directly in your VS Code editor!</i></b>
 </p>
 
-
 ## Demo
 
 Check out the demo of the LlamaVerse extension in action:
+[CLICK HERE TO INSTALL THE EXTENSION](https://marketplace.visualstudio.com/items?itemName=appyzdl5.llamaverse)
 
 ![Demo](./pic/output.gif)
 
