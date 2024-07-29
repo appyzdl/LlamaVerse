@@ -1,19 +1,19 @@
 # LlamaVerse 🪄✨: VSCode Edition
 
-<center>
-<img src="./pic/LlamaVerse.png" alt="LlamaVerse" width="300"/>
-</center>
+<p align="center">
+  <img src="./pic/LlamaVerse.png" alt="LlamaVerse" width="300"/>
+</p>
 
-*Enter the LlamaVerse and chat with Ollama models directly in your VS Code editor!*
+<p align="center">
+  <b><i>Enter the LlamaVerse and chat with Ollama models directly in your VS Code editor!</i></b>
+</p>
+
 
 ## Demo
 
 Check out the demo of the LlamaVerse extension in action:
 
-<video width="600" controls>
-  <source src="./pic/demo.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](./pic/output.gif)
 
 ## Features
 
